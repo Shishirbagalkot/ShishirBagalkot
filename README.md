@@ -33,6 +33,12 @@ I'm Shishir, and I really enjoy learning about new tools and technologies. My in
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishirbagalkot&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
+### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>
+  
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishirbagalkot&theme=gotham&layout=compact&count_private=true" alt="ShishirBagalkot" />
+</p>
+  
 [![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishirbagalkot)](https://github.com/Shishirbagalkot/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shishirbagalkot)  
