@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shishir
 
 <p align="center">
   <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20%" height="20%"/>
@@ -15,13 +15,14 @@ I'm Shishir, and I really enjoy learning about new tools and technologies. My in
 ### <h2 align="center">Tech Stack <h2/>
 
 <p align="center">
- <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
- <code><img width="70px" src="https://img.icons8.com/color/2x/dart.png"></code>
- <code><img width="70px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
- <code><img width="70px"  src="https://img.icons8.com/color/2x/css3.png"></code>
- <code><img width="70px" src="https://img.icons8.com/color/50/000000/git.png"/></code>
- <code><img  width="55px" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"></code>
- <code><img width="70px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
+ <code><img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
+ <code><img width="50px"src="https://img.icons8.com/color/48/000000/python.png"></code>
+ <code><img width="50px" src="https://img.icons8.com/color/2x/flutter.png"></code>
+ <code><img width="50px" src="https://img.icons8.com/color/2x/dart.png"></code>
+ <code><img width="50px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
+ <code><img width="50px"  src="https://img.icons8.com/color/2x/css3.png"></code>
+ <code><img width="50px" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"></code>
+ <code><img width="50px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
 
 </p>
 </br>
@@ -35,12 +36,10 @@ I'm Shishir, and I really enjoy learning about new tools and technologies. My in
 
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>
   
-  <p align="center">
+  <p align="center">    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishirbagalkot&theme=gotham&layout=compact&count_private=true" alt="ShishirBagalkot" />
 </p>
   
-[![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishirbagalkot)](https://github.com/Shishirbagalkot/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shishirbagalkot)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shishirbagalkot) 
+<p align="center">
+<img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=Shishirbagalkot&theme=react-dark&count_private=true" alt="ShishirBagalkot" />
+</p>
