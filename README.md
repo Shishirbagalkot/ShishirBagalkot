@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="100%" height="100%"/>
+  <img alt="GIF" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100%" height="100%"/>
 </p>
 <p align="center">
      <img src="https://profile-counter.glitch.me/{Shishirbagalkot}/count.svg"  alt="counter"/>
