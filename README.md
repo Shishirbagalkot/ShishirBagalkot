@@ -12,13 +12,11 @@
 
 I'm Shishir, and I really enjoy learning about new tools and technologies. My interests include Mobile App Development using Flutter and Cybersecurity. Apart from these I really enjoy gaming and creating content related to it https://cutt.ly/7QxpQFL.
 
-### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
+### <h2 align="center">Tech Stack <h2/>
 
 <p align="center">
  <code><img width="70px" src="https://img.icons8.com/color/2x/flutter.png"></code>
- <code><img height="70px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
  <code><img width="70px" src="https://img.icons8.com/color/2x/dart.png"></code>
- <code><img width="70px"  src="https://img.icons8.com/color/2x/javascript.png"></code>
  <code><img width="70px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
  <code><img width="70px"  src="https://img.icons8.com/color/2x/css3.png"></code>
  <code><img width="70px" src="https://img.icons8.com/color/50/000000/git.png"/></code>
