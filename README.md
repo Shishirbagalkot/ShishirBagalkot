@@ -26,6 +26,13 @@ I'm Shishir, and I really enjoy learning about new tools and technologies. My in
 </p>
 </br>
 
+### <h2 align="center">Contributions<h2/>
+
+<p align="center">
+  <a href="https://github.com/Shishirbagalkot/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishirbagalkot&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+
 [![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishirbagalkot)](https://github.com/Shishirbagalkot/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shishirbagalkot)  
