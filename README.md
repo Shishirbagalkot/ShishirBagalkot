@@ -5,7 +5,6 @@
   <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20%" height="20%"/>
   <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20%" height="20%"/>
   <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20%" height="20%"/>
-  <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20%" height="20%"/>
 </p>
 <p align="center">
      <img src="https://profile-counter.glitch.me/{Shishirbagalkot}/count.svg"  alt="counter"/>
