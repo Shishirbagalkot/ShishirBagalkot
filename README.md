@@ -17,11 +17,11 @@ I'm Shishir, and I really enjoy learning about new tools and technologies. My in
 <p align="center">
  <code><img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
  <code><img width="50px"src="https://img.icons8.com/color/48/000000/python.png"></code>
- <code><img width="50px" src="https://img.icons8.com/color/2x/flutter.png"></code>
- <code><img width="50px" src="https://img.icons8.com/color/2x/dart.png"></code>
+ <code><img src="https://img.icons8.com/color/48/000000/django.png"/></code>
  <code><img width="50px" width="50px" src="https://img.icons8.com/color/2x/html-5.png"></code>
  <code><img width="50px"  src="https://img.icons8.com/color/2x/css3.png"></code>
  <code><img width="50px" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"></code>
+ <code><img width="50px" src="https://img.icons8.com/color/2x/flutter.png"></code>
  <code><img width="50px" src="https://img.icons8.com/color/50/000000/firebase.png"/></code>
 
 </p>
