@@ -10,7 +10,7 @@
      <img src="https://profile-counter.glitch.me/{Shishirbagalkot}/count.svg"  alt="counter"/>
 </p>
 
-I'm Shishir, and I really enjoy learning about new tools and technologies. My interests include Mobile App Development using Flutter and Cybersecurity. Apart from these I really enjoy gaming and creating content related to it https://cutt.ly/7QxpQFL.
+I'm Shishir, and I really enjoy learning about new tools and technologies. My interests include Web App Development and Cybersecurity. Apart from these I really enjoy gaming and creating content related to it https://cutt.ly/7QxpQFL.
 
 ### <h2 align="center">Tech Stack <h2/>
 
