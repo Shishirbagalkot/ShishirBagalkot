@@ -19,12 +19,12 @@ I'm Shishir, and I really enjoy learning about new tools and technologies. My in
 </p>
 </br>
 
-### <h2 align="center">Contributions<h2/>
+<!-- ### <h2 align="center">Contributions<h2/>
 
 <p align="center">
   <a href="https://github.com/Shishirbagalkot/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishirbagalkot&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
+  </a> -->
 
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>
   
