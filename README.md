@@ -32,7 +32,7 @@ I'm Shishir, and I really enjoy learning about new tools and technologies.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishirbagalkot&theme=gotham&layout=compact&count_private=true" alt="ShishirBagalkot" />
 </p> -->
   
-<p align="center">
+<!-- <p align="center">
 <img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=Shishirbagalkot&theme=react-dark&count_private=true" alt="ShishirBagalkot" />
 </p>
  -->
