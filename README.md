@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shishir
+<!-- ### Hi there 👋 I'm Shishir
 
 <p align="center">
      <img src="https://profile-counter.glitch.me/{Shishirbagalkot}/count.svg"  alt="counter"/>
@@ -35,3 +35,4 @@ I'm Shishir, and I really enjoy learning about new tools and technologies.
 <p align="center">
 <img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=Shishirbagalkot&theme=react-dark&count_private=true" alt="ShishirBagalkot" />
 </p>
+ -->
